@@ -1,0 +1,161 @@
+question_id,option_id,option_label,is_missing
+2025-058_q_1,1,No one. I don’t discuss personal matters with anyone on a weekly basis.,false
+2025-058_q_1,2,One person. I discuss personal matters weekly with exactly one person.,false
+2025-058_q_1,3,"Two people, not connected. I talk weekly with exactly two people, and they do not talk weekly with each other.",false
+2025-058_q_1,4,"Two people, connected. I talk weekly with exactly two people, and they do talk weekly with each other.",false
+2025-058_q_1,5,"Three people, no ties. I talk weekly with exactly three people, and none of them talk weekly with each other.",false
+2025-058_q_1,6,"Three people, one tie. I talk weekly with the top three people, and only one pair among them talks weekly with each othe",false
+2025-058_q_1,7,"Three people, fully connected. I talk weekly with the top three people, and all three talk weekly with each other.",false
+2025-058_q_10_1_1,1,$2,false
+2025-058_q_10_1_1,2,$3,false
+2025-058_q_10_1_1,3,$5,false
+2025-058_q_10_2_1,1,Gallon,false
+2025-058_q_10_2_1,2,Liter,false
+2025-058_q_11_a,1,Government,false
+2025-058_q_11_a,2,Corporations,false
+2025-058_q_11_a,3,Residents,false
+2025-058_q_11_b,1,Government,false
+2025-058_q_11_b,2,Corporations,false
+2025-058_q_11_b,3,Individuals,false
+2025-058_q_12,1,Strongly agree,false
+2025-058_q_12,2,Agree,false
+2025-058_q_12,3,Somewhat agree,false
+2025-058_q_12,4,Neither agree nor disagree,false
+2025-058_q_12,5,Somewhat disagree,false
+2025-058_q_12,6,Disagree,false
+2025-058_q_12,7,Strongly disagree,false
+2025-058_q_12,8,I don't use social media,false
+2025-058_q_12,9,I use social media but don't follow influencers,false
+2025-058_q_13,1,Search engines (e.g. Google),false
+2025-058_q_13,2,AI powered chatbot (e.g. ChatGPT),false
+2025-058_q_13,3,"Social media (e.g. Facebook, Instagram, TikTok, YouTube)",false
+2025-058_q_13,4,Forums/discussion boards (e.g. Reddit),false
+2025-058_q_13,5,Friends or family,false
+2025-058_q_13,6,Doctor or pediatrician,false
+2025-058_q_13,7,I'm not a parent,false
+2025-058_q_14,1,Food or eating issues (including allergies),false
+2025-058_q_14,2,Mental health,false
+2025-058_q_14,3,Vaccines,false
+2025-058_q_14,4,Managing bad or inappropriate behavior,false
+2025-058_q_14,5,Screentime,false
+2025-058_q_14,6,Being bullied,false
+2025-058_q_14,7,None of the above,false
+2025-058_q_14,8,I'm not a parent,false
+2025-058_q_15,1,"Yes, it is a neutral tool. It all depends on how it is used.",false
+2025-058_q_15,2,"No, it is not neutral. Independent of how it is used, it comes with a set of assumptions that do not make it neutral.",false
+2025-058_q_15,3,I am unsure.,false
+2025-058_q_16,1,Location,false
+2025-058_q_16,2,Food price,false
+2025-058_q_16,3,Plug-ins,false
+2025-058_q_16,4,Co-working area,false
+2025-058_q_16,5,Office resources,false
+2025-058_q_16,6,Loyalty points program,false
+2025-058_q_16,7,Not interested at all,false
+2025-058_q_16,8,I'm not currently working,false
+2025-058_q_17,1,Strongly oppose,false
+2025-058_q_17,2,Oppose,false
+2025-058_q_17,3,Neutral,false
+2025-058_q_17,4,Support,false
+2025-058_q_17,5,Strongly support,false
+2025-058_q_18_a,1,Never,false
+2025-058_q_18_a,2,Once or twice,false
+2025-058_q_18_a,3,Once or twice a month,false
+2025-058_q_18_a,4,Once or twice a week,false
+2025-058_q_18_a,5,Many times a week,false
+2025-058_q_18_a,6,Every day,false
+2025-058_q_18_b,1,Never,false
+2025-058_q_18_b,2,Once or twice,false
+2025-058_q_18_b,3,Once or twice a month,false
+2025-058_q_18_b,4,Once or twice a week,false
+2025-058_q_18_b,5,Many times a week,false
+2025-058_q_18_b,6,Every day,false
+2025-058_q_19,1,Media that focuses on violence,false
+2025-058_q_19,2,Media that focuses on people's narratives or testimonies of adverse event(s),false
+2025-058_q_19,3,Media that focuses on injustices of adverse event(s),false
+2025-058_q_19,4,Media that makes me have negative psychological reaction(s),false
+2025-058_q_19,5,Media that makes me have a negative physical reaction(s),false
+2025-058_q_19,6,"Media that makes me think of adverse event(s) that I have experienced (e.g., violence, emotional distress)",false
+2025-058_q_19,7,"Media that makes me think of adverse event(s) that can be tied to my identity (e.g., gender, race/ethnicity, social position)",false
+2025-058_q_19,8,None of the above,false
+2025-058_q_2,1,They are totally the same,false
+2025-058_q_2,2,They are somewhat the same,false
+2025-058_q_2,3,They are somewhat different,false
+2025-058_q_2,4,They are totally different,false
+2025-058_q_20_a,1,Strongly Agree,false
+2025-058_q_20_a,2,Agree,false
+2025-058_q_20_a,3,Somewhat Agree,false
+2025-058_q_20_a,4,Neither Agree nor Disagree,false
+2025-058_q_20_a,5,Somewhat Disagree,false
+2025-058_q_20_a,6,Disagree,false
+2025-058_q_20_a,7,Strongly Disagree,false
+2025-058_q_20_b,1,Strongly Agree,false
+2025-058_q_20_b,2,Agree,false
+2025-058_q_20_b,3,Somewhat Agree,false
+2025-058_q_20_b,4,Neither Agree nor Disagree,false
+2025-058_q_20_b,5,Somewhat Disagree,false
+2025-058_q_20_b,6,Disagree,false
+2025-058_q_20_b,7,Strongly Disagree,false
+2025-058_q_21,1,Apple Pie,false
+2025-058_q_21,2,Pecan Pie,false
+2025-058_q_21,3,Key Lime Pie,false
+2025-058_q_21,4,Ice Cream,false
+2025-058_q_21,5,Chocolate Cake,false
+2025-058_q_21,6,Vanilla Cake,false
+2025-058_q_22,1,Not at all focused on morality,false
+2025-058_q_22,2,Somewhat focused on morality,false
+2025-058_q_22,3,Focused on morality,false
+2025-058_q_22,4,Strongly focused on morality,false
+2025-058_q_23,1,"Cisgender Woman (Identify as woman, assigned female sex at birth)",false
+2025-058_q_23,2,"Cisgender Man (Identify as man, assigned male sex at birth)",false
+2025-058_q_23,3,Transgender Woman,false
+2025-058_q_23,4,Transgender Man,false
+2025-058_q_23,5,Nonbinary,false
+2025-058_q_23,6,Genderfluid,false
+2025-058_q_23,7,Genderqueer or otherwise Gender Nonconforming,false
+2025-058_q_24,1,5- full understanding,false
+2025-058_q_24,2,4,false
+2025-058_q_24,3,3,false
+2025-058_q_24,4,2,false
+2025-058_q_24,5,1 - Zero understanding,false
+2025-058_q_25,1,They should be totally the same,false
+2025-058_q_25,2,They should be somewhat the same,false
+2025-058_q_25,3,They should be somewhat different,false
+2025-058_q_25,4,They should be totally different,false
+2025-058_q_3,1,Extremely Confident,false
+2025-058_q_3,2,Confident,false
+2025-058_q_3,3,Somewhat Confident,false
+2025-058_q_3,4,Neither Confident or Unconfident,false
+2025-058_q_3,5,Somewhat Unconfident,false
+2025-058_q_3,6,Unconfident,false
+2025-058_q_3,7,Extremely Unconfident,false
+2025-058_q_3,8,I do not have colleagues,false
+2025-058_q_4,1,Yes,false
+2025-058_q_4,2,No,false
+2025-058_q_4,3,Not sure,false
+2025-058_q_4,4,I do use social media,false
+2025-058_q_5,1,Yes,false
+2025-058_q_5,2,No,false
+2025-058_q_5,3,Maybe,false
+2025-058_q_6,1,"Yes, often",false
+2025-058_q_6,2,"Yes, occasionally",false
+2025-058_q_6,3,No,false
+2025-058_q_6,4,Never,false
+2025-058_q_6,5,I don't use social media,false
+2025-058_q_7,1,Multiple times per day,false
+2025-058_q_7,2,Once per day,false
+2025-058_q_7,3,Several times per week,false
+2025-058_q_7,4,Once per week,false
+2025-058_q_7,5,Several times per month,false
+2025-058_q_7,6,Less often,false
+2025-058_q_7,7,Never,false
+2025-058_q_8,1,Yes,false
+2025-058_q_8,2,No,false
+2025-058_q_8,3,Maybe,false
+2025-058_q_8,4,I'm not currently working,false
+2025-058_q_9,1,Strongly disagree,false
+2025-058_q_9,2,Disagree,false
+2025-058_q_9,3,Somewhat disagree,false
+2025-058_q_9,4,Neither agree nor disagree,false
+2025-058_q_9,5,Somewhat agree,false
+2025-058_q_9,6,Agree,false
+2025-058_q_9,7,Strongly agree,false

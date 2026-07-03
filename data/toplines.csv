@@ -1,0 +1,161 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2025-058_q_1,1,No one. I don’t discuss personal matters with anyone on a weekly basis.,0.1441945012049211,14.42,144.19450120492138,126,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,2,One person. I discuss personal matters weekly with exactly one person.,0.2410910352526371,24.11,241.09103525263754,243,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,3,"Two people, not connected. I talk weekly with exactly two people, and they do not talk weekly with each other.",0.15160318600482325,15.16,151.60318600482356,155,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,4,"Two people, connected. I talk weekly with exactly two people, and they do talk weekly with each other.",0.1322950224809646,13.23,132.29502248096486,132,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,5,"Three people, no ties. I talk weekly with exactly three people, and none of them talk weekly with each other.",0.10060712907090012,10.06,100.60712907090031,96,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,6,"Three people, one tie. I talk weekly with the top three people, and only one pair among them talks weekly with each othe",0.08469502689145694,8.47,84.6950268914571,97,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_1,7,"Three people, fully connected. I talk weekly with the top three people, and all three talk weekly with each other.",0.14551409909429694,14.55,145.51409909429722,151,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_10_1_1,1,$2,0.05674543590175745,5.67,56.74543590175756,49,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_10_1_1,2,$3,0.7746597689218999,77.47,774.6597689219014,778,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_10_1_1,3,$5,0.16859479517634265,16.86,168.59479517634298,173,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_10_2_1,1,Gallon,0.9835184775590403,98.35,983.5184775590423,984,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_10_2_1,2,Liter,0.016481522440959677,1.65,16.481522440959708,16,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_a,1,Government,0.4516999483262554,45.17,218.76670765530224,231,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_a,2,Corporations,0.3378302035203462,33.78,163.61746695903042,151,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_a,3,Residents,0.21046984815339848,21.05,101.93447201365122,108,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_b,1,Government,0.38814059172042725,38.81,200.15686563700584,198,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_b,2,Corporations,0.30781175701244173,30.78,158.73278343999473,151,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_11_b,3,Individuals,0.304047651267131,30.4,156.7917042950175,161,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,1,Strongly agree,0.08179912074454902,8.18,81.79912074454919,81,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,2,Agree,0.12580224193494746,12.58,125.8022419349477,136,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,3,Somewhat agree,0.16324206665082416,16.32,163.24206665082448,168,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,4,Neither agree nor disagree,0.20370102632441425,20.37,203.70102632441464,209,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,5,Somewhat disagree,0.05741346314583817,5.74,57.413463145838286,64,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,6,Disagree,0.05725379215706377,5.73,57.25379215706388,56,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,7,Strongly disagree,0.039735772905430844,3.97,39.73577290543092,45,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,8,I don't use social media,0.03060313554024355,3.06,30.60313554024361,17,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_12,9,I use social media but don't follow influencers,0.24044938059668877,24.04,240.44938059668922,224,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,1,Search engines (e.g. Google),0.09034132857827315,9.03,90.34132857827332,97,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,2,AI powered chatbot (e.g. ChatGPT),0.014623672226495752,1.46,14.62367222649578,16,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,3,"Social media (e.g. Facebook, Instagram, TikTok, YouTube)",0.04402463358459036,4.4,44.02463358459045,41,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,4,Forums/discussion boards (e.g. Reddit),0.015615830435260209,1.56,15.61583043526024,16,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,5,Friends or family,0.1812661910291614,18.13,181.26619102916175,199,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,6,Doctor or pediatrician,0.39261912889125145,39.26,392.6191288912522,386,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_13,7,I'm not a parent,0.2615092152549677,26.15,261.5092152549682,245,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,1,Food or eating issues (including allergies),0.18853422076002627,18.85,139.23078464036524,154,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,2,Mental health,0.20476574649312076,20.48,151.2176168166074,184,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,3,Vaccines,0.11558888966841585,11.56,85.36132983903555,98,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,4,Managing bad or inappropriate behavior,0.1653909284183597,16.54,122.13967651738417,140,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,5,Screentime,0.12942448883792615,12.94,95.57879232714495,110,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,6,Being bullied,0.08467845321744928,8.47,62.534257367549756,67,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,7,None of the above,0.40125492892686326,40.13,296.323067346012,293,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_14,8,I'm not a parent,0.1598904638825428,15.99,118.07763414586653,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_15,1,"Yes, it is a neutral tool. It all depends on how it is used.",0.3542308104532135,35.42,354.23081045321413,372,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_15,2,"No, it is not neutral. Independent of how it is used, it comes with a set of assumptions that do not make it neutral.",0.38687633207294997,38.69,386.87633207295073,380,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_15,3,I am unsure.,0.25889285747383656,25.89,258.89285747383707,248,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,1,Location,0.42633231292817797,42.63,426.3323129281788,446,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,2,Food price,0.382079816114027,38.21,382.0798161140278,403,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,3,Plug-ins,0.11352615239717793,11.35,113.52615239717815,128,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,4,Co-working area,0.21022883400360437,21.02,210.2288340036048,236,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,5,Office resources,0.11850793781140194,11.85,118.50793781140217,138,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,6,Loyalty points program,0.2573943401458647,25.74,257.3943401458652,283,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,7,Not interested at all,0.17056567899054004,17.06,170.56567899054036,157,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_16,8,I'm not currently working,0.1975984926105992,19.76,197.59849261059958,178,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_17,1,Strongly oppose,0.03989750930038626,3.99,39.89750930038634,38,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_17,2,Oppose,0.10016063639448355,10.02,100.16063639448375,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_17,3,Neutral,0.32387826445471435,32.39,323.87826445471495,322,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_17,4,Support,0.34005240405075154,34.01,340.0524040507522,339,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_17,5,Strongly support,0.19601118579966428,19.6,196.01118579966467,208,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,1,Never,0.4751182900654971,47.51,230.10864723272343,218,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,2,Once or twice,0.20870730449316324,20.87,101.08083925350336,102,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,3,Once or twice a month,0.16242726791340634,16.24,78.6665545713019,77,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,4,Once or twice a week,0.06582441828619591,6.58,31.879993179444718,42,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,5,Many times a week,0.05867797171466216,5.87,28.418835847720295,34,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_a,6,Every day,0.029244747527075305,2.92,14.16377654329019,17,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,1,Never,0.5089347296728945,50.89,262.4481501757404,244,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,2,Once or twice,0.20015829385148934,20.02,103.21789986197011,114,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,3,Once or twice a month,0.12417301939563681,12.42,64.03371069423184,61,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,4,Once or twice a week,0.08549224340955233,8.55,44.08675578424794,44,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,5,Many times a week,0.04983430537492446,4.98,25.69862204009548,32,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_18_b,6,Every day,0.03140740829550245,3.14,16.196214815732247,15,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,1,Media that focuses on violence,0.5087588792198393,50.88,508.75887921984025,513,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,2,Media that focuses on people's narratives or testimonies of adverse event(s),0.190107051786171,19.01,190.10705178617135,200,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,3,Media that focuses on injustices of adverse event(s),0.25277249976265365,25.28,252.77249976265415,260,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,4,Media that makes me have negative psychological reaction(s),0.3575276816257832,35.75,357.5276816257839,347,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,5,Media that makes me have a negative physical reaction(s),0.2775963151497462,27.76,277.5963151497467,273,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,6,"Media that makes me think of adverse event(s) that I have experienced (e.g., violence, emotional distress)",0.3015862141449964,30.16,301.58621414499703,306,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,7,"Media that makes me think of adverse event(s) that can be tied to my identity (e.g., gender, race/ethnicity, social position)",0.21286621681264487,21.29,212.86621681264526,216,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_19,8,None of the above,0.19994093991514497,19.99,199.94093991514535,200,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_2,1,They are totally the same,0.09479547823218769,9.48,94.79547823218788,83,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_2,2,They are somewhat the same,0.3995226326543964,39.95,399.52263265439717,419,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_2,3,They are somewhat different,0.365406461734162,36.54,365.40646173416275,356,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_2,4,They are totally different,0.14027542737925391,14.03,140.27542737925418,142,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,1,Strongly Agree,0.19641640373834818,19.64,95.12812683409246,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,2,Agree,0.3548674772821466,35.49,171.86893632957606,170,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,3,Somewhat Agree,0.18050397176228536,18.05,87.42143931488586,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,4,Neither Agree nor Disagree,0.184791052649275,18.48,89.49775252805739,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,5,Somewhat Disagree,0.04444096702593678,4.44,21.52358900484056,24,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,6,Disagree,0.02539750742611422,2.54,12.300486424339809,13,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_a,7,Strongly Disagree,0.013582620115893911,1.36,6.578316192191768,4,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,1,Strongly Agree,0.014431344624004782,1.44,7.4419753266847835,10,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,2,Agree,0.06383091014837405,6.38,32.916410132281214,28,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,3,Somewhat Agree,0.08619952351447593,8.62,44.45148694596804,35,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,4,Neither Agree nor Disagree,0.28411624931022295,28.41,146.51345195927746,149,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,5,Somewhat Disagree,0.15067670844065928,15.07,77.70116893032015,87,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,6,Disagree,0.24921579614633424,24.92,128.5159390384266,130,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_20_b,7,Strongly Disagree,0.15152946781592874,15.15,78.14092103905979,71,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,1,Apple Pie,0.7920405241950613,79.2,792.0405241950629,808,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,2,Pecan Pie,0.03516119149424685,3.52,35.16119149424692,36,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,3,Key Lime Pie,0.020446763229551263,2.04,20.4467632295513,18,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,4,Ice Cream,0.10299361249002634,10.3,102.99361249002654,98,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,5,Chocolate Cake,0.03586478616277977,3.59,35.86478616277984,30,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_21,6,Vanilla Cake,0.013493122428334434,1.35,13.493122428334459,10,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_22,1,Not at all focused on morality,0.492541157774839,49.25,492.5411577748399,486,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_22,2,Somewhat focused on morality,0.29514421967131116,29.51,295.1442196713117,300,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_22,3,Focused on morality,0.13500797890147687,13.5,135.00797890147712,137,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_22,4,Strongly focused on morality,0.07730664365237308,7.73,77.30664365237322,77,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,1,"Cisgender Woman (Identify as woman, assigned female sex at birth)",0.5054288251678798,50.54,505.4288251678808,523,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,2,"Cisgender Man (Identify as man, assigned male sex at birth)",0.44903402546603227,44.9,449.03402546603314,436,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,3,Transgender Woman,0.00638240374659286,0.64,6.382403746592872,4,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,4,Transgender Man,0.00799312733163265,0.8,7.993127331632666,8,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,5,Nonbinary,0.03702448613362457,3.7,37.02448613362464,33,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,6,Genderfluid,0.007036727994052333,0.7,7.036727994052347,4,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_23,7,Genderqueer or otherwise Gender Nonconforming,0.016988698599350066,1.7,16.988698599350098,11,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_24,1,5- full understanding,0.6883884493911071,68.84,688.3884493911085,678,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_24,2,4,0.1419542919371593,14.2,141.95429193715958,145,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_24,3,3,0.10201632588953595,10.2,102.01632588953615,112,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_24,4,2,0.034753929850673666,3.48,34.753929850673735,33,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_24,5,1 - Zero understanding,0.032887002931523954,3.29,32.887002931524016,32,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_25,1,They should be totally the same,0.2510175419233181,25.1,251.01754192331856,233,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_25,2,They should be somewhat the same,0.5775651864795516,57.76,577.5651864795527,583,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_25,3,They should be somewhat different,0.1295792487870238,12.96,129.57924878702403,138,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_25,4,They should be totally different,0.04183802281010658,4.18,41.838022810106665,46,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,1,Extremely Confident,0.03067516087633402,3.07,30.67516087633408,33,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,2,Confident,0.0940872382230259,9.41,94.08723822302609,114,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,3,Somewhat Confident,0.2117070516464178,21.17,211.7070516464182,224,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,4,Neither Confident or Unconfident,0.2580805794901108,25.81,258.0805794901113,264,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,5,Somewhat Unconfident,0.1474712668574455,14.75,147.47126685744578,130,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,6,Unconfident,0.08731344761038679,8.73,87.31344761038696,84,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,7,Extremely Unconfident,0.06459518418362113,6.46,64.59518418362126,50,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_3,8,I do not have colleagues,0.10607007111265811,10.61,106.07007111265831,101,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_4,1,Yes,0.4232671132434342,42.33,423.267113243435,468,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_4,2,No,0.46722553011338497,46.72,467.22553011338584,427,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_4,3,Not sure,0.06451332868475641,6.45,64.51332868475654,69,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_4,4,I do use social media,0.04499402795842446,4.5,44.994027958424546,36,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_5,1,Yes,0.3967934581719043,39.68,396.79345817190506,404,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_5,2,No,0.25766009116793315,25.77,257.6600911679337,267,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_5,3,Maybe,0.3455464506601626,34.55,345.54645066016326,329,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_6,1,"Yes, often",0.08302933546009655,8.3,83.02933546009672,93,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_6,2,"Yes, occasionally",0.3303164286073363,33.03,330.31642860733695,347,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_6,3,No,0.4030851699090285,40.31,403.0851699090293,394,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_6,4,Never,0.16359388963688795,16.36,163.59388963688826,156,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_6,5,I don't use social media,0.019975176386650702,2,19.97517638665074,10,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,1,Multiple times per day,0.13069757093578752,13.07,130.69757093578778,127,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,2,Once per day,0.05956198287441265,5.96,59.56198287441277,71,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,3,Several times per week,0.16699666801892063,16.7,166.99666801892096,187,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,4,Once per week,0.06316320059790613,6.32,63.16320059790625,68,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,5,Several times per month,0.07954468436824842,7.95,79.54468436824858,69,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,6,Less often,0.20255394800505577,20.26,202.55394800505616,201,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_7,7,Never,0.2974819451996689,29.75,297.4819451996695,277,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_8,1,Yes,0.06940530424054735,6.94,69.40530424054748,68,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_8,2,No,0.49157978609106895,49.16,491.5797860910699,501,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_8,3,Maybe,0.17596186638597788,17.6,175.96186638597823,182,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_8,4,I'm not currently working,0.26305304328240586,26.31,263.05304328240635,249,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,1,Strongly disagree,0.05043905800066796,5.04,50.439058000668055,45,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,2,Disagree,0.07965203822006311,7.97,79.65203822006328,75,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,3,Somewhat disagree,0.09531597101696525,9.53,95.31597101696543,103,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,4,Neither agree nor disagree,0.2769181240358094,27.69,276.9181240358099,283,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,5,Somewhat agree,0.28019386814713826,28.02,280.1938681471388,279,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,6,Agree,0.12032472267454453,12.03,120.32472267454476,121,false,https://verasight-ica-2025.tiiny.co
+2025-058_q_9,7,Strongly agree,0.09715621790481153,9.72,97.15621790481173,94,false,https://verasight-ica-2025.tiiny.co

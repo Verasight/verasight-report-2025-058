@@ -1,0 +1,21 @@
+{
+  "report_id": "2025-058",
+  "repo_name": "verasight-report-2025-058",
+  "title": "ICA Conference Omnibus Survey #2025-058",
+  "wave_id": "2025-058",
+  "survey_id": "2025-058",
+  "source_report_url": "https://verasight-ica-2025.tiiny.co",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-06-25",
+    "end": "2025-06-30"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 29,
+  "modules": [
+    "ICA Conference Omnibus Survey #2025-058"
+  ]
+}
